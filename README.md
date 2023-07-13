@@ -1,4 +1,4 @@
-![logo](https://github.com/aakrati-123/aakrati-123/blob/main/Gold%20Luxury%20Business%20Logo.png)
+
 <h1 align="center">Hi 👋, I'm Aakrati jain</h1>
 <h3 align="center">A full stck web developer who is eager to learn and work on web technologies</h3>
 
