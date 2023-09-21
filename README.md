@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aakrati jain</h1>
-<h3 align="center">A full stck web developer who is eager to learn and work on web technologies</h3>
+<h3 align="center">A full stack web developer who is eager to learn and work on web technologies</h3>
 
 <img align = "right" alt = "coding" width ="400" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
 
