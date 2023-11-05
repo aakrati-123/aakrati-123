@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **aakratijain622@gmail.com**
 
+- I’m looking to collaborate on **OpenSource /Community Project** 
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/174SgdACOStXjG7Yvti9CJUoOBM1efE8w/view?usp=sharing](https://drive.google.com/file/d/174SgdACOStXjG7Yvti9CJUoOBM1efE8w/view?usp=sharing)
 
 - ⚡ Fun fact **eccentric for web development**
