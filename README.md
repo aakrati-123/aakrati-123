@@ -4,8 +4,7 @@
    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=19&pause=1000&color=D0D1D4&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=31CBD4&width=435&lines=I+am+Aakrati+Jain+!)](https://git.io/typing-svg)
-<h1 align="center"> I'm Aakrati jain 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=31CBD4&width=435&lines=I+am+Aakrati+Jain+👋)](https://git.io/typing-svg)
 <h3 align="center">A full stack web developer who is eager to learn and work on web technologies</h3>
 
 <img align = "right" alt = "coding" width ="400" src="https://cdn.dribbble.com/users/1063314/screenshots/3020974/tdsocial_dribbble.gif">
