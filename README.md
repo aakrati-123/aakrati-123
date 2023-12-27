@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=31CBD4&width=435&lines=Hello+folks+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=red&size=34&pause=1000&color=31CBD4&width=435&lines=Hello+folks+!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Verdana&size=34&pause=1000&color=31CBD4&width=435&lines=I+am+Aakrati+Jain+👋)](https://git.io/typing-svg)
 <h3 align="center">A full stack web developer who is eager to learn and work on web technologies</h3>
