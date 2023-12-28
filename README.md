@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aakrati-123.github.io/ajportfolio/](https://aakrati-123.github.io/ajportfolio/)
 
-- 💬 Ask me about **React,Frontend,Devops,SQL**
+- 💬 Ask me about **React,Frontend,Devops,SQL,Backend**
 
 - 📫 How to reach me **aakratijain622@gmail.com**
 
