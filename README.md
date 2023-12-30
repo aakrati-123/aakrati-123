@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakrati-123&label=Profile%20views&color=0e75b6&style=flat" alt="aakrati-123" /> </p>
 
-- 🔭 I’m currently working on **Personal website**
+- 🔭 I’m currently working on **Personal Website**
 
 - 🌱 I’m currently learning **Devops**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/174SgdACOStXjG7Yvti9CJUoOBM1efE8w/view?usp=sharing](https://drive.google.com/file/d/174SgdACOStXjG7Yvti9CJUoOBM1efE8w/view?usp=sharing)
 
-- ⚡ Fun fact **eccentric for web development**
+- ⚡ Fun fact **Eccentric for web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
